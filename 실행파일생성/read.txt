@@ -1,0 +1,3 @@
+실행
+ pyinstall -w -F {파일이름}.py
+ 
